@@ -9,10 +9,11 @@ I am transitioning from physical to technical security through systematic, evide
 I bridge the gap between technical execution and business risk. I don't just find vulnerabilities—I document how they impact organizations, providing clear remediation that security teams can actually implement.
 
 ### 🏆 Verifiable Proof of Skill
-*   **🏅 Ranked 3rd of 204** on [StackSmash](https://stacksmash.net/) (Top 1.5%) – Competitive binary exploitation & reverse engineering
-*   **📚 Completed 158/158 challenges** in pwn.college core curricula (Linux Luminarium & x86 Assembly)
-*   **🛡️ Active Directory Red Team Specialist (AD-RTS)** – Executed full domain compromise with 29-page client-style report
-*   **👥 OWASP Las Vegas Chapter Leader & Founder** – Building local security community
+*   **🏅 Ranked 3rd of 204** on [StackSmash](https://members.stacksmash.io/u/0119f178) (Top 1.5%) – Competitive binary exploitation & reverse engineering
+*   **📚 Completed 158/158 challenges** at [pwn.college](https://pwn.college/hacker/) (Linux Luminarium & x86 Assembly)
+*   **🛡️ Active Directory Red Team Specialist (AD-RTS)** – [Credential ID: 692075a2524427687600cad2](https://labs.cyberwarfare.live/credential/achievement/692075c2f524427687600cad2)
+*   **📜 Certified Offensive Security Junior (COSJ)** – [Verification](https://redops-academy.coursestack.com/completion/8a600225d03bab30)
+*   **👥 [OWASP Las Vegas](https://owasp.org/www-chapter-las-vegas/) Chapter Leader & Founder** – Building local security community
 
 ## 🧠 Core Competencies
 | Offensive Security | Vulnerability Research | Tools & Development |
@@ -36,8 +37,8 @@ These projects demonstrate my methodology from reconnaissance to remediation.
 ## 📬 Contact & Verification
 *   **📍 Location:** Las Vegas, NV
 *   **📧 Email:** [Your Professional Email]
-*   **💼 LinkedIn:** [Your Profile Link]
-*   **🔗 Verification:** [StackSmash Profile](https://stacksmash.net/), [pwn.college Progress](https://pwn.college/)
+*   **💼 LinkedIn:** [Darrius Grate](https://www.linkedin.com/in/darrius-grate/)
+*   **🔗 All Certification Proof:** [AD-RTS](https://labs.cyberwarfare.live/credential/achievement/692075c2f524427687600cad2) | [COSJ](https://redops-academy.coursestack.com/completion/8a600225d03bab30) | [CAPT](https://storage.hackviser.com/file/hackviser-prod/certificates/71d4124d76b04f38a93622bdf8949bf5.pdf)
 
 ---
 *This portfolio showcases skills developed in authorized, controlled environments. All work respects confidentiality agreements and responsible disclosure principles.*
