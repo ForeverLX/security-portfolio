@@ -14,12 +14,12 @@ I bridge the gap between technical execution and business risk. I don't just fin
 
 | Achievement | Verification | Description |
 |-------------|--------------|-------------|
-| **🏅 Ranked 3rd of 204 on StackSmash** | [View Profile](https://stacksmash.net/) | Top 1.5% – Competitive binary exploitation & reverse engineering |
-| **📚 Completed 158/158 challenges at pwn.college** | [View Profile](https://pwn.college/) | Validated proficiency in Linux security and x86_64 assembly |
-| **🛡️ Active Directory Red Team Specialist (AD-RTS)** | [View Certificate](assets/certificates/AD-RTS-Certificate.png) | Full domain compromise assessment methodology |
+| **🏅 Ranked 3rd of 204 on StackSmash** | [View Profile](https://members.stacksmash.io/u/0119f178) | Top 1.5% – Competitive binary exploitation & reverse engineering |
+| **📚 Completed 158/158 challenges at pwn.college** | [View Profile](https://pwn.college/hacker/) | Validated proficiency in Linux security and x86_64 assembly |
+| **🛡️ Active Directory Red Team Specialist (AD-RTS)** | [View Certificate](https://labs.cyberwarfare.live/credential/achievement/692075a2524427687600cad2) | Full domain compromise assessment methodology |
 | **📜 Certified Application Penetration Tester (CAPT)** | [View 60+ Lab Completions](projects/certifications/CAPT-summary.md) | **60+ hands-on labs** covering OWASP Top 10 & web application security |
 | **🎓 Certified Offensive Security Junior (COSJ)** | [View Certificate](assets/certificates/COSJ.png) | Foundational offensive security methodology |
-| **👥 OWASP Las Vegas Chapter Leader & Founder** | [LinkedIn Profile](https://linkedin.com/in/darriusgrate) | Demonstrated community leadership and initiative |
+| **👥 OWASP Las Vegas Chapter Leader & Founder** | [LinkedIn Profile](https://www.linkedin.com/in/darrius-grate/) | Demonstrated community leadership and initiative |
 
 ## 🧠 Core Competencies
 
@@ -33,7 +33,7 @@ These projects demonstrate my methodology from reconnaissance to remediation.
 
 | Project | Skills Demonstrated | Description |
 |---------|-------------------|-------------|
-| **[Enterprise AD Attack Chain](projects/ad-exploitation/)** | AD Exploitation, Kerberos Abuse, ADCS ESC1, Lateral Movement | A sanitized demonstration of a full-scope AD assessment methodology, from external recon to domain compromise and virtualization layer breach. |
+| **[Enterprise AD Attack Chain](projects/ad-exploitation/01_Enterprise_AD_Attack_Chain/)** | AD Exploitation, Kerberos Abuse, ADCS ESC1, Lateral Movement | A **complete** demonstration of full-scope AD assessment methodology, from external recon to domain compromise. [View Methodology](projects/ad-exploitation/01_Enterprise_AD_Attack_Chain/methodology/01_Reconnaissance_Strategy.md) |
 | **[Binary Exploitation & Reverse Engineering](projects/binary-exploitation/)** | x86_64 Assembly, GDB, Memory Corruption, Exploit Dev | Write-ups and proof-of-concepts from StackSmash and pwn.college challenges showcasing competitive binary exploitation skills. |
 | **[ACLGuard - AD Permission Auditor](projects/tool-development/ACLGuard.md)** | C Programming, Security Tooling, AD Security Research | A custom C-based tool for analyzing Active Directory ACLs and identifying privilege escalation paths. Demonstrates low-level systems programming for security. |
 
@@ -48,9 +48,9 @@ These projects demonstrate my methodology from reconnaissance to remediation.
 
 - **📍 Location:** Las Vegas, NV
 - **📧 Email:** Darrius.G@proton.me
-- **💼 LinkedIn:** [Darrius Grate](https://linkedin.com/in/darriusgrate)
-- **🔗 Direct Certification Proof:** [AD-RTS](assets/certificates/AD-RTS-Certificate.png) | [CAPT Summary](projects/certifications/CAPT-summary.md) | [COSJ](assets/certificates/COSJ.png)
-- **👨‍💻 Technical Profiles:** [StackSmash](https://stacksmash.net/) | [pwn.college](https://pwn.college/)
+- **💼 LinkedIn:** [Darrius Grate](https://www.linkedin.com/in/darrius-grate/)
+- **🔗 Direct Certification Proof:** [AD-RTS](https://labs.cyberwarfare.live/credential/achievement/692075a2524427687600cad2) | [CAPT Summary](projects/certifications/CAPT-summary.md) | [COSJ](assets/certificates/COSJ.png)
+- **👨‍💻 Technical Profiles:** [StackSmash Profile](https://members.stacksmash.io/u/0119f178) | [pwn.college](https://pwn.college/hacker/)
 
 ---
 
