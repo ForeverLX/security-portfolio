@@ -33,7 +33,7 @@ These projects demonstrate my methodology from reconnaissance to remediation.
 
 | Project | Skills Demonstrated | Description |
 |---------|-------------------|-------------|
-| **[Enterprise AD Attack Chain](projects/ad-exploitation/01_Enterprise_AD_Attack_Chain/)** | AD Exploitation, Kerberos Abuse, ADCS ESC1, Lateral Movement | A **complete** demonstration of full-scope AD assessment methodology, from external recon to domain compromise. [View Methodology](projects/ad-exploitation/01_Enterprise_AD_Attack_Chain/methodology/01_Reconnaissance_Strategy.md) |
+| **[Enterprise AD Attack Chain](projects/ad-exploitation/01_Enterprise_AD_Attack_Chain/)** | AD Exploitation, Kerberos Abuse, ADCS ESC1, Lateral Movement | A **complete** demonstration of full-scope AD assessment methodology, from external recon to domain compromise. [View Methodology](https://github.com/ForeverLX/security-portfolio/tree/main/projects/ad-exploitation/01_Enterprise_AD_Attack_Chain/methodology) |
 | **[Binary Exploitation & Reverse Engineering](projects/binary-exploitation/)** | x86_64 Assembly, GDB, Memory Corruption, Exploit Dev | Write-ups and proof-of-concepts from StackSmash and pwn.college challenges showcasing competitive binary exploitation skills. |
 | **[ACLGuard - AD Permission Auditor](projects/tool-development/ACLGuard.md)** | C Programming, Security Tooling, AD Security Research | A custom C-based tool for analyzing Active Directory ACLs and identifying privilege escalation paths. Demonstrates low-level systems programming for security. |
 
