@@ -26,7 +26,7 @@
 - **Persistence**: Completing complex multi-step labs
 
 ### 🖼️ Visual Proof
-![60+ Lab Completions Grid](../assets/certificates/CAPT/summaries/all-labs-grid.jpg)
+![60+ Lab Completions Grid](../../assets/certificates/CAPT/summaries/all-labs-grid.jpg)
 *Grid showing systematic completion of 60+ hands-on labs*
 
 ### 🎖️ Certification Verification
