@@ -1,40 +1,43 @@
-# 🔒 Offensive Security Portfolio
+# 🔓 Darrius Grate | Offensive Security Portfolio
 
-## About Me
-Offensive security practitioner focused on adversary simulation, vulnerability research, and red team operations. I combine hands-on technical execution with professional methodology, emphasizing business impact analysis and clear communication for both technical and executive audiences.
+**OWASP Las Vegas Leader | Top 1.5% StackSmash | AD Red Team & Vulnerability Research**
 
-**Verifiable Competitive & Academic Proof:**
-*   🏆 **Ranked 3rd of 204** on StackSmash (binary exploitation platform)
-*   ✅ **Completed core curricula** at pwn.college (Linux & Assembly)
-*   🛡️ **OWASP Las Vegas Chapter Leader & Founder**
+## 🎯 Who I Am
+I am transitioning from physical to technical security through systematic, evidence-based skill development. My approach combines **competitive binary exploitation rankings** with **professional-grade red team methodology**, demonstrating the rare ability to operate across both low-level systems and enterprise environments.
 
-## 🎯 Featured Project: Enterprise AD Attack Chain
-**Objective:** Demonstrate the methodology for a full-scope Active Directory red team assessment.
+## 📈 What I Deliver
+I bridge the gap between technical execution and business risk. I don't just find vulnerabilities—I document how they impact organizations, providing clear remediation that security teams can actually implement.
 
-**Key Activities:**
-*   Executed a simulated attack chain demonstrating **AS-REP Roasting**, **ADCS ESC1 exploitation**, and lateral movement.
-*   Mapped techniques to the **MITRE ATT&CK®** framework.
-*   Produced professional documentation analyzing technical flaws and **business impact**.
+### 🏆 Verifiable Proof of Skill
+*   **🏅 Ranked 3rd of 204** on [StackSmash](https://stacksmash.net/) (Top 1.5%) – Competitive binary exploitation & reverse engineering
+*   **📚 Completed 158/158 challenges** in pwn.college core curricula (Linux Luminarium & x86 Assembly)
+*   **🛡️ Active Directory Red Team Specialist (AD-RTS)** – Executed full domain compromise with 29-page client-style report
+*   **👥 OWASP Las Vegas Chapter Leader & Founder** – Building local security community
 
-**📖 Explore the Detailed Methodology:** [01_Enterprise_AD_Attack_Chain](./01_Enterprise_AD_Attack_Chain/)
+## 🧠 Core Competencies
+| Offensive Security | Vulnerability Research | Tools & Development |
+| :--- | :--- | :--- |
+| • Active Directory Exploitation<br>• Enterprise Red Teaming<br>• Privilege Escalation<br>• Lateral Movement | • Binary Analysis/RE<br>• Memory Corruption<br>• Web App Security (OWASP Top 10) | • Python/PowerShell/Bash<br>• C Programming<br>• BloodHound, Impacket<br>• GDB, Ghidra |
 
-## 🔧 Technical Proficiencies
-*   **Offensive Security:** Active Directory Exploitation, Privilege Escalation, Lateral Movement, Post-Exploitation
-*   **Vulnerability Research:** Binary Analysis, Web Application Security (OWASP Top 10)
-*   **Tools:** BloodHound, Impacket, Cobalt Strike, Burp Suite, GDB, Ghidra
-*   **Programming/Scripting:** Python, PowerShell, Bash, C
+## 📂 Featured Projects
+These projects demonstrate my methodology from reconnaissance to remediation.
 
-## 📜 Certifications & Achievements
-*   Active Directory Red Team Specialist (AD-RTS) – CyberWarfare Labs
-*   Certified Offensive Security Junior (COSJ) – RedOps Academy
-*   pwn.college Progress (Blue Belt – Binary Exploitation)
-*   StackSmash Top 1.5% Ranking
+| Project | Skills Demonstrated | Description |
+| :------ | :------------------ | :---------- |
+| **[Enterprise AD Attack Chain](./projects/ad-exploitation/01_Enterprise_AD_Attack_Chain/)** | AD Exploitation, Kerberos Abuse, ADCS ESC1, Lateral Movement | A sanitized demonstration of a full-scope AD assessment methodology, from external recon to domain compromise and virtualization layer breach. |
+| **[Binary Exploitation & Reverse Engineering](./projects/binary-exploitation/)** (In Progress) | x86_64 Assembly, GDB, Memory Corruption, Exploit Dev | Write-ups and proof-of-concepts from StackSmash and pwn.college challenges. |
+| **[ACLGuard - AD Permission Auditor](./projects/tool-development/ACLGuard.md)** | C Programming, Security Tooling, AD Security Research | A custom C-based tool for analyzing Active Directory ACLs and identifying privilege escalation paths. |
 
-## 📫 Contact & Links
-*   **LinkedIn:** [Your Profile Link]
-*   **Email:** [Your Professional Email]
-*   **Location:** Las Vegas, NV
-*   **Tool Project:** [ACLGuard - AD Permission Auditor](https://github.com/ForeverLX/ACLGuard-Active-Directory-Permission-Auditor)
+## 📜 Professional Artifacts & Approach
+*   **Client-Ready Reporting:** I produce deliverables with executive summaries, technical details mapped to MITRE ATT&CK, and actionable remediation roadmaps. [View Sample Methodology](./projects/ad-exploitation/01_Enterprise_AD_Attack_Chain/concepts/Professional_Deliverables.md)
+*   **Business Impact Analysis:** I translate technical findings into organizational risk, considering compliance (GDPR, PCI-DSS) and potential business disruption.
+*   **Operational Realism:** My work documents troubleshooting and adaptation in constrained environments, not just scripted success.
+
+## 📬 Contact & Verification
+*   **📍 Location:** Las Vegas, NV
+*   **📧 Email:** [Your Professional Email]
+*   **💼 LinkedIn:** [Your Profile Link]
+*   **🔗 Verification:** [StackSmash Profile](https://stacksmash.net/), [pwn.college Progress](https://pwn.college/)
 
 ---
-*This portfolio showcases skills developed in controlled lab environments. All work respects responsible disclosure and confidentiality agreements.*
+*This portfolio showcases skills developed in authorized, controlled environments. All work respects confidentiality agreements and responsible disclosure principles.*
