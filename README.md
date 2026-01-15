@@ -73,8 +73,6 @@ security-portfolio/
 │ └── reverse-engineering/ # Binary analysis challenges
 └── assets/certificates/ # Professional certifications
 
-text
-
 ---
 
 ## 🎯 SKILLS MATRIX
@@ -101,6 +99,62 @@ My background in physical security provides a holistic understanding of organiza
 
 ---
 
+## 🧪 Field Report: Engineering a Security-Focused Linux Platform
+
+### 🌐 Motivation & Design Goals
+
+Offensive workflows demand:
+- Low attack surface
+- High reliability and responsiveness
+- Explicit control over service stacks
+- Keyboard-centric operator workflows
+- Repeatable, auditable configurations
+
+**Core Stack:**
+- Arch Linux (minimal base)
+- Sway (Wayland)
+- Terminals: Ghostty (primary), Warp (evaluated)
+- Browser: Thorium with Wayland flags
+- Compatibility via XWayland
+
+---
+
+## 🧩 Key Engineering Decisions & Tradeoffs
+
+### 🧠 Wayland over X11  
+*Rationale:* Reduced legacy risk and attack surface.
+
+### 🚀 Minimal Services and No Display Manager  
+*Rationale:* Explicit session control, reduce background processes.
+
+### 📟 Terminal Selection  
+- Ghostty (stable, minimal)  
+- Warp evaluated; usable but not primary due to integration complexity
+
+### 🔇 Audio Omission as Intentional Design Choice  
+Audio stacks add complexity with minimal operational benefit in offensive workflows — deliberately excluded to simplify system and reduce surface area.
+
+---
+
+## 🧪 Troubleshooting & Lessons Learned
+
+- CPU power management tuning before stability caused boot issues — *stability first*.  
+- Custom PipeWire configs regressed audio state — *baseline resets matter*.  
+- Applications expecting X11 require XWayland — *compatibility layer provisioned explicitly*.  
+
+---
+
+## 📊 Current Status
+
+- Stable Sway workstation environment  
+- Minimal services and attack surface  
+- Explicit session management via TTY  
+- Audio functioning on clean baseline (reboot enforced)  
+- Tooling integrated for offensive workflows  
+
+---
+
+> 
 ## 🔗 VERIFICATION LINKS
 
 | Achievement | Link |
@@ -128,4 +182,5 @@ My background in physical security provides a holistic understanding of organiza
 **Portfolio Last Updated:** January 2026
 
 ---
-*All security testing conducted in controlled, authorized environments for educational purposes.*
+*All security testing conducted in controlled, authorized environments for educational purposes. This README is engineered to convey not just activity but disciplined technical judgment.*
+
